@@ -13,7 +13,7 @@ export default function Home() {
 
       <main>
         <h1 className={styles.title}>
-          learn to <Link href="/posts/first-post">Next.js!</Link>
+          hello to <Link href="/posts/first-post">Next.js!</Link>
         </h1>
         <Image
           height={100}
